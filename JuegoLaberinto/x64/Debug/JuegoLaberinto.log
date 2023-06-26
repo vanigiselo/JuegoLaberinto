@@ -1,0 +1,6 @@
+﻿  Hacha.cpp
+  Jugador.cpp
+C:\Users\VANNI\Desktop\Curso C++\PoloTICMisiones\JuegoLaberinto\JuegoLaberinto\Jugador.cpp(31,7): warning C4101: 'cofre': variable local sin referencia
+C:\Users\VANNI\Desktop\Curso C++\PoloTICMisiones\JuegoLaberinto\JuegoLaberinto\Jugador.cpp(65,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  JuegoLaberinto.vcxproj -> C:\Users\VANNI\Desktop\Curso C++\PoloTICMisiones\JuegoLaberinto\x64\Debug\JuegoLaberinto.exe
